@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Конвертер</string>
+
+    <string name="txtLanguage">Язык</string>
+
+    <string name="meter">Метры</string>
+
+    <string name="kilometer">Километры</string>
+
+    <string name="centimeter">Сантиметры</string>
+
+    <string name="foot">Футы</string>
+
+    <string name="mile">Миля</string>
+
+    <string name="inch">Дюймы</string>
+
+    <string name="toast">Язык изменён на русский.</string>
+
+</resources>
